@@ -1,6 +1,6 @@
 import React from 'react';
 import { BrowserRouter as Router, Route } from 'react-router-dom';
-import Wrapper from './components/Wrapper';
+// import Wrapper from './components/Wrapper';
 import Navbar from './components/Navbar';
 
 const App = () => {
@@ -8,12 +8,12 @@ const App = () => {
     <Router>
         <div>
             <Navbar />
-            <Wrapper>
+            {/* <Wrapper>
                 <Route exact path="/" />
                 <Route exact path="/about" />
                 <Route exact path="/portfolio" />
                 <Route exact path="/contactMe" />
-            </Wrapper>
+            </Wrapper> */}
         </div>
     </Router>
     )
