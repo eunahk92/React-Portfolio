@@ -18,17 +18,3 @@ h4 {
     letter-spacing: -1px;
     color: slategray;
 }
-
-
-
-/* @media screen and (max-width: 767px) {
-    #name {
-        min-width: 20rem;
-    }
-}
-
-@media screen and (max-width: 320px) {
-    #name {
-        min-width: 15rem;
-    }
-} */
