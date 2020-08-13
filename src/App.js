@@ -5,17 +5,21 @@ import Footer from './components/Footer';
 import Home from './pages/Home'
 import About from './pages/About';
 import Portfolio from './pages/Portfolio';
+import Wrapper from './components/Wrapper';
 
 const App = () => {
     return (
         <Router>
             <div>
                 <Nav />
-                <Switch>
-                    <Route exact path="/" component={Home} />
-                    <Route exact path="/about" component={About} />
-                    <Route exact path="/portfolio" component={Portfolio} />
-                </Switch>
+                <Wrapper>
+                    <Switch>
+                        <Route exact path="/" component={Home} />
+                        <Route exact path="/about" component={About} />
+                        <Route exact path="/portfolio" component={Portfolio} />
+                        <Route exact path="*" component={Home} />
+                    </Switch>
+                </Wrapper>
                 <Footer />
             </div>
         </Router>
