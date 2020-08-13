@@ -1,8 +1,9 @@
 import React from "react";
+import './style.css';
 
 const Footer = () => {
   return (
-    <nav className="navbar fixed-bottom navbar-light bg-light">
+    <nav className="navbar fixed-bottom navbar-light bg-light" id="footer">
         <span className="navbar-brand">
             <a className="ml-4 text-dark" href="https://github.com/eunahk92">
                 <i className="fab fa-github"></i>
@@ -14,7 +15,6 @@ const Footer = () => {
                 <i className="fas fa-envelope"></i>
             </a>
         </span>
-
     </nav>
   );
 }
