@@ -1,7 +1,7 @@
 import React from 'react';
 import './style.css';
 
-const Jumbotron = ({ children }) => <div className="mt-5">{children}</div>;
+const Jumbotron = (props) => <div {...props}>{props.children}</div>;
 
 export default Jumbotron;
 

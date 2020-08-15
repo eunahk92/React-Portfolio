@@ -1,20 +1,24 @@
 .bigWord {
     color: slategray;
-    font-size: 95px;
-    line-height: 65px;
+    font-size: 90px;
+    line-height: 70px;
     letter-spacing: -7px;
     text-transform: lowercase;
 }
 
 .bigWordName {
     color: whitesmoke;
-    font-size: 95px;
-    line-height: 65px;
+    font-size: 90px;
+    line-height: 70px;
     letter-spacing: -8px;
     text-transform: lowercase;
 }
 
 h4 { 
     letter-spacing: -1px;
-    color: slategray;
+    color: lightblue;
+}
+
+h2 { 
+    letter-spacing: -1px;
 }
