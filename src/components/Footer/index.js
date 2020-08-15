@@ -42,6 +42,10 @@ const Footer = () => {
                     <i className="fas fa-file-download fa-2x"></i>
                 </a>
             </span>
+            <span className="navbar-brand mx-right">
+                <small className="p-0 m-0">cell: 407-675-0415</small><br/>
+                <small className="p-0 m-0">email: eunahkim92@gmail.com</small>
+            </span>
         </nav>
 	);
 };
