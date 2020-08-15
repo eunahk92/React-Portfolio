@@ -11,7 +11,7 @@ class Portfolio extends Component {
     render() {
         return (
             <Container>
-                <Jumbotron>
+                <Jumbotron className="mt-3">
                     <h1 className="bigWordName m-0 text-center">Portfolio</h1> 
                     <h4 className="text-center">a collection of my work.</h4><br />
                 </Jumbotron>
