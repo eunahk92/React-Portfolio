@@ -1,11 +1,11 @@
 import React from "react";
 
-export function Container({ children }) {
-  return <div className="container-lg"> {children} </div>;
+export function Container(props) {
+  return <div className={`container${props.fluid ? "-fluid" : ""}`} {...props}>{props.children}</div>;
 }
 
-export function Row({ children }) {
-  return <div className="row mt-1"> {children} </div>;
+export function Row(props) {
+  return <div className="row justify-content-md-center mt-1" {...props}> {props.children} </div>;
 }
 
 export function Col({ size, children }) {
