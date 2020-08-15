@@ -6,7 +6,7 @@
 		"repoLink": "https://github.com/eunahk92/Mother-Truckers",
 		"deployedLink": "https://arcane-waters-56136.herokuapp.com/",
 		"lastUpdated": "July 10, 2020",
-		"picturePath": "mother_trucker.png"
+		"picturePath": "mother_trucker"
 	},
 	{
 		"id": 2,
@@ -15,16 +15,16 @@
 		"repoLink": "https://github.com/eunahk92/brew-for-you",
 		"deployedLink": "https://eunahk92.github.io/brew-for-you/",
 		"lastUpdated": "May 7, 2020",
-		"picturePath": "brew_for_you.png"
+		"picturePath": "brew_for_you"
 	},
 	{
 		"id": 3,
-		"title": "NYT Search",
-		"description": "Search for articles from the New York Times based off certain parameters, such as a keyword, start year, and/or end year.",
-		"repoLink": "https://github.com/eunahk92/nyt-search",
-		"deployedLink": "https://eunahk92.github.io/nyt-search/",
-		"lastUpdated": "April 25, 2020",
-		"picturePath": "nyt_search.png"
+		"title": "Employee Management",
+		"description": "A CMS interface to build a command-line application for managing a company's employees using node, inquirer, and MySQL.",
+		"repoLink": "https://github.com/eunahk92/Employee-sys",
+		"deployedLink": "N/A",
+		"lastUpdated": "April 23, 2020",
+		"picturePath": "employee_sys"
 	},
 	{
 		"id": 4,
@@ -33,7 +33,7 @@
 		"repoLink": "https://github.com/eunahk92/color-game",
 		"deployedLink": "https://eunahk92.github.io/color-game/",
 		"lastUpdated": "April 23, 2020",
-		"picturePath": "color_game.png"
+		"picturePath": "color_game"
 	},
 	{
 		"id": 5,
@@ -42,7 +42,7 @@
 		"repoLink": "https://github.com/eunahk92/Team-Generator",
 		"deployedLink": "https://github.com/eunahk92/Team-Generator",
 		"lastUpdated": "June 5, 2020",
-		"picturePath": "team_generator.png"
+		"picturePath": "team_generator"
 	},
 	{
 		"id": 6,
@@ -51,16 +51,16 @@
 		"repoLink": "https://github.com/eunahk92/Notes",
 		"deployedLink": "https://thawing-ravine-79183.herokuapp.com/",
 		"lastUpdated": "June 11, 2020",
-		"picturePath": "notes.png"
+		"picturePath": "notes"
 	},
 	{
 		"id": 7,
-		"title": "Employee Management",
-		"description": "A CMS interface to build a command-line application for managing a company's employees using node, inquirer, and MySQL.",
-		"repoLink": "https://github.com/eunahk92/Employee-sys",
-		"deployedLink": "N/A",
-		"lastUpdated": "April 23, 2020",
-		"picturePath": "employee_sys.png"
+		"title": "Employee Directory",
+		"description": "An employee directory application using React that will allow quick access to employee information for the user.",
+		"repoLink": "https://github.com/eunahk92/Employee-Directory",
+		"deployedLink": "https://eunahk92.github.io/Employee-Directory/",
+		"lastUpdated": "August 8, 2020",
+		"picturePath": "employee_directory"
 	},
 	{
 		"id": 8,
@@ -69,7 +69,7 @@
 		"repoLink": "https://github.com/eunahk92/Eat-a-burger",
 		"deployedLink": "https://gentle-refuge-13265.herokuapp.com/",
 		"lastUpdated": "June 5, 2020",
-		"picturePath": "eat_a_burger.png"
+		"picturePath": "eat_a_burger"
 	},
 	{
 		"id": 9,
@@ -78,6 +78,6 @@
 		"repoLink": "https://github.com/eunahk92/weather-dashboard",
 		"deployedLink": "https://eunahk92.github.io/weather-dashboard/",
 		"lastUpdated": "June 6, 2020",
-		"picturePath": "Weather_dashboard.png"
+		"picturePath": "weather_dashboard"
 	}
 ]
