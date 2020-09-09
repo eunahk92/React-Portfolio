@@ -9,11 +9,11 @@ import mother_trucker from '../../assets/mother_trucker.png';
 import notes from '../../assets/notes.png';
 import employee_directory from '../../assets/employee_directory.png';
 import team_generator from '../../assets/team_generator.png';
-import weather_dashboard from '../../assets/weather_dashboard.png';
+import travelers_compass from '../../assets/travelers_compass.png';
 
 const Card = ({ id, title, description, repoLink, deployedLink, lastUpdated, picturePath }) => {
     let projectID = `0${id}`;
-    let projects = [brew_for_you, color_game, daily_planner, eat_a_burger, employee_sys, mother_trucker, notes, employee_directory, team_generator, weather_dashboard];
+    let projects = [brew_for_you, color_game, daily_planner, eat_a_burger, employee_sys, mother_trucker, notes, employee_directory, team_generator, travelers_compass];
     let chosenProjectPic = projects.filter(project => project.includes(picturePath));
 
     return (
