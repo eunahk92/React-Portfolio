@@ -21,8 +21,8 @@ const About = () => {
                <h2 className="mb-1 text-info">skills</h2>
                <p>HTML | CSS | JAVASCRIPT | NODE.JS | MONGODB | MYSQL | REACT</p>    
                <h2 className="mb-1 text-info">education</h2> 
-               <h4 className="mb-0">ROSEN COLLEGE OF HOSPITALITY MANAGEMENT</h4>
-               <span className="text-white ml-3">AT UNIVERSITY OF CENTRAL FLORIDA</span><br/>
+               <h4 className="mb-0">UNIVERSITY OF CENTRAL FLORIDA</h4>
+               <span className="text-white ml-3">ROSEN COLLEGE OF HOSPITALITY MANAGEMENT</span><br/>
                <span className="text-white ml-3">2015 | BACHELORS IN HOSPITALITY AND EVENT MANAGEMENT</span>
                <h4 className="mb-0">UNIVERSITY OF CENTRAL FL - FULL STACK CODING BOOTCAMP</h4>
                <span className="text-white ml-3">MARCH - SEPTEMBER 2020</span>
