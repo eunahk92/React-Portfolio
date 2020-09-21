@@ -16,16 +16,16 @@ const About = () => {
             </Col>
             <Col size="md-8">   
                <h2 className="mb-1 text-info">who am i?</h2>
-               <p>Experienced Food and Beverage operations professional with over 8 years of experience in the Hospitality Industry in a leadership role. I am an ambitious individual with strong skills in communication, problem-solving and time-management. I am well versed with Microsoft Office and Adobe Photoshop.<br/>
-               I am aspiring to be a Software Developer and currently am maturing my skills as a Full Stack Web Developer to create, develop, and transform visions or new opportunities in their businesses. My hobbies include photography, graphic design, and traveling.</p>
+               <p>Ambitious Full Stack Web Developer with over 8 years of experience in a leadership role in the Food & Beverage industry. Recent recipient of a certificate from the University of Central Florida Full Stack Web Development Bootcamp that allowed me to acquire and hone my skills. Professional strengths include multitasking, communication and time management with solid ability to learn quickly and stay calm under high pressure and fast-paced environments, collaborate with a team or work independently, and a strong focus on attention to detail. Passionate to make an impact in creating intuitive applications and continue my growth in this ever-growing field. </p>
                <h2 className="mb-1 text-info">skills</h2>
-               <p>HTML | CSS | JAVASCRIPT | NODE.JS | MONGODB | MYSQL | REACT</p>    
+               <p>HTML5 | CSS3 | JAVASCRIPT | jQUERY | NODE.JS | MONGO-DB | MYSQL | REACT | EXPRESS | EXPRESS-HANDLEBARS | JSON </p>    
                <h2 className="mb-1 text-info">education</h2> 
                <h4 className="mb-0">UNIVERSITY OF CENTRAL FLORIDA</h4>
-               <span className="text-white ml-3">ROSEN COLLEGE OF HOSPITALITY MANAGEMENT</span><br/>
+               <span className="text-white ml-3">MARCH - SEPTEMBER 2020</span><br/>
+               <span className="text-white ml-3">FULL STACK WEB DEVELOPMENT CERTIFICATE</span>
+               <h4 className="mb-0">UNIVERSITY OF CENTRAL FLORIDA</h4>
+               <small className="text-white ml-3">ROSEN COLLEGE OF HOSPITALITY MANAGEMENT</small><br/>
                <span className="text-white ml-3">2015 | BACHELORS IN HOSPITALITY AND EVENT MANAGEMENT</span>
-               <h4 className="mb-0">UNIVERSITY OF CENTRAL FL - FULL STACK CODING BOOTCAMP</h4>
-               <span className="text-white ml-3">MARCH - SEPTEMBER 2020</span>
             </Col>
          </Row>
       </Container>

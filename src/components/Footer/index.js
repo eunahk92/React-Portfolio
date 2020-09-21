@@ -4,7 +4,10 @@ import Resume from '../../assets/Resume.pdf';
 const Footer = () => {
 	return (
         <nav className="navbar fixed-bottom navbar-light bg-light" id="footer">
-            <span className="navbar-brand mx-auto">
+            <span className="navbar-brand mx-left">
+                <small>contact me at: eunahkim92@gmail.com</small>
+            </span>
+            <span className="navbar-brand mx-right">
                 <a 
                     className="ml-4 text-dark" 
                     href="https://github.com/eunahk92" 

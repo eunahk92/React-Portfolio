@@ -8,7 +8,7 @@ const Home = () => {
       <Jumbotron style={{paddingTop: "23vh"}}>
         <h1 className="bigWordName m-0">Eunah Kim</h1>
         <h1 className="bigWord m-0 text-info">Full Stack Developer</h1> 
-        <h4>welcome to my page.</h4><br />
+        <h4>welcome to my page.</h4>
       </Jumbotron>
 		</Container>
 	);
