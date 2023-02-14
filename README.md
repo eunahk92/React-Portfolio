@@ -19,4 +19,4 @@ SO THAT future employers can view my work and stay in contact
 Eunah Kim
 
 ## Questions
-If you have any questions about the repo, open an issue or contact [Eunahk92](https://github.com/eunahk92) directly at Eunahkim92@gmail.com.
+If you have any questions about the repo, open an issue or contact [Eunahk92](https://github.com/eunahk92) directly at Kim.EunahJ@gmail.com.
