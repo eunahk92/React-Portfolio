@@ -1,6 +1,15 @@
 [
 	{
 		"id": 1,
+		"title": "Travel With Me",
+		"description": "A travel blog created to show my travel recommendations. It is a simple application using bootstrap and incorporates Google Maps API, that allow users to view my recommendations for various locations with the locations projected on the map.",
+		"repoLink": "https://github.com/eunahk92/travel-with-me",
+		"deployedLink": "https://eunahk92.github.io/travel-with-me/",
+		"lastUpdated": "April 29, 2021",
+		"picturePath": "travel_with_me"
+	},
+	{
+		"id": 2,
 		"title": "Traveler's Compass",
 		"description": "A MERN Stack application that provides a centralized location for travelers to create, plan, and save their trip itinerary, individual or group, to ensure efficiency in planning for the perfect trip.",
 		"repoLink": "https://github.com/kimnana45/The-Travelers-Compass",
@@ -9,7 +18,7 @@
 		"picturePath": "travelers_compass"
 	},
 	{
-		"id": 2,
+		"id": 3,
 		"title": "Mother Trucker!",
 		"description": "Mother Trucker is an application using Sequelize, Node, Express, Express-Handlebars, and Socket.io while incorporating a Mapquest API, that allow users to find info about their local Food Truck in their area.",
 		"repoLink": "https://github.com/eunahk92/Mother-Truckers",
@@ -18,7 +27,7 @@
 		"picturePath": "mother_trucker"
 	},
 	{
-		"id": 3,
+		"id": 4,
 		"title": "Brew For You",
 		"description": "See which breweries are nearby your location or search by city to find a hidden gem. Keep track of the ones you've visited, would like to visit, or the ones you favorite!",
 		"repoLink": "https://github.com/eunahk92/brew-for-you",
@@ -27,7 +36,7 @@
 		"picturePath": "brew_for_you"
 	},
 	{
-		"id": 4,
+		"id": 5,
 		"title": "Employee Management",
 		"description": "A CMS interface to build a command-line application for managing a company's employees using node, inquirer, and MySQL.",
 		"repoLink": "https://github.com/eunahk92/Employee-sys",
@@ -36,22 +45,13 @@
 		"picturePath": "employee_sys"
 	},
 	{
-		"id": 5,
-		"title": "Color Game",
-		"description": "Objective of the game is to pick the color of the target word shown from the list of colors below it.",
-		"repoLink": "https://github.com/eunahk92/color-game",
-		"deployedLink": "https://eunahk92.github.io/color-game/",
-		"lastUpdated": "April 23, 2020",
-		"picturePath": "color_game"
-	},
-	{
 		"id": 6,
-		"title": "Team Portfolio Generator",
-		"description": "A template generator command line application to build a software engineering team. The application will prompt the user for information about the team manager, engineers, and interns and then create an HTML file that displays a nicely formatted team roster.",
-		"repoLink": "https://github.com/eunahk92/Team-Generator",
-		"deployedLink": "https://github.com/eunahk92/Team-Generator",
-		"lastUpdated": "June 5, 2020",
-		"picturePath": "team_generator"
+		"title": "Employee Directory",
+		"description": "An employee directory application using React that will allow quick access to employee information for the user.",
+		"repoLink": "https://github.com/eunahk92/Employee-Directory",
+		"deployedLink": "https://eunahk92.github.io/Employee-Directory/",
+		"lastUpdated": "August 8, 2020",
+		"picturePath": "employee_directory"
 	},
 	{
 		"id": 7,
@@ -64,15 +64,6 @@
 	},
 	{
 		"id": 8,
-		"title": "Employee Directory",
-		"description": "An employee directory application using React that will allow quick access to employee information for the user.",
-		"repoLink": "https://github.com/eunahk92/Employee-Directory",
-		"deployedLink": "https://eunahk92.github.io/Employee-Directory/",
-		"lastUpdated": "August 8, 2020",
-		"picturePath": "employee_directory"
-	},
-	{
-		"id": 9,
 		"title": "Eat-A-Burger",
 		"description": "Eat-A-Burger! is a restaurant app using MySQL, Node, Express, Handlebars and ORM that lets users input the names of burgers they'd like to eat.",
 		"repoLink": "https://github.com/eunahk92/Eat-a-burger",

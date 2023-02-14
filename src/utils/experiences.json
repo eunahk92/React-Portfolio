@@ -1,0 +1,34 @@
+[
+	{
+		"companyName": "Olive AI",
+		"positionTitle": "Software Engineer I",
+		"employedDates": "July 2021 - February 2023",
+		"jobDescriptions": [
+			"Collaborated with product manager and supported customer facing teams in developing, testing, maintaining, and improving automation's for Prior Auth.",
+			"Actively collaborated with senior engineers to re-architect the Prior Auth automation system to interact with healthcare software and seamlessly connect providers and payers.",
+			"Enhanced current applications by implementing new features, troubleshooting, and repairing bugs in existing code using JavaScript, Typescript, and mongoDB knowledge.",
+			"Proactively transitioned our workflows and database to SQL and developed queries that enhanced the performance of our workflow.",
+			"Versed in X12 27x messaging specifications to connect OliveShare’s software to provider and payer systems.",
+			"Identified operational issues and wrote scalable code that followed testing processes and tested using standard testing tools to implement solutions to resolve problems."
+		]
+	},
+    {
+		"companyName": "Verata/ Olive AI",
+		"positionTitle": "Software QA Technician",
+		"employedDates": "September 2020 - January 2021",
+		"jobDescriptions": [
+			"Executing manual test cases and analyzing results.",
+            "Defining and maintaining testing activities while documenting testing phases and defects.",
+            "Reporting bugs and errors to development team to ensure efficiency in the UI of our software."
+		]
+	},
+    {
+		"companyName": "2U",
+		"positionTitle": "Tutor and Centralized Grader",
+		"employedDates": "September 2020 - January 2021",
+		"jobDescriptions": [
+			"Support students enrolled in University Bootcamps globally through 1:1 sessions covering Full-Stack Web Development technical skills, such as front-end programming languages and frameworks, databases, server-side languages and libraries, version control (Git and Github), and deployment servers (Heroku).",
+            "Provide assignment grades and feedback in a detailed, clear, and supportive way of learning in Full-Stack Web Development topics."
+		]
+	}
+]

@@ -1,6 +1,15 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
+import NavLinks from '../../utils/navLinks.json';
 import './style.css';
+
+const NavListItem = ({children}) => {
+	return <li className='nav-item'>{children}</li>;
+};
+
+const NavListGroup = ({children}) => {
+	return <ul className='navbar-nav mx-auto mt-2 mt-lg-0'>{children}</ul>;
+};
 
 const NavBar = () => {
 	return (
@@ -22,45 +31,22 @@ const NavBar = () => {
 				className='collapse navbar-collapse text-right'
 				id='navbarTogglerDemo02'
 			>
-				<ul className='navbar-nav mx-auto mt-2 mt-lg-0'>
-					<li className='nav-item'>
-						<Link
-							to='/'
-							className={
-								window.location.pathname === '/'
-									? 'nav-link active'
-									: 'nav-link'
-							}
-						>
-							HOME
-						</Link>
-						{console.log(window.location.pathname)}
-					</li>
-					<li className='nav-item'>
-						<Link
-							to='/aboutme'
-							className={
-								window.location.pathname === '/aboutme'
-									? 'nav-link active'
-									: 'nav-link'
-							}
-						>
-							ABOUT ME
-						</Link>
-					</li>
-					<li className='nav-item'>
-						<Link
-							to='/portfolio'
-							className={
-								window.location.pathname === '/portfolio'
-									? 'nav-link active'
-									: 'nav-link'
-							}
-						>
-							PORTFOLIO
-						</Link>
-					</li>
-				</ul>
+				<NavListGroup>
+					{NavLinks.map((link) => (
+						<NavListItem>
+							<Link
+								to={link.path}
+								className={
+									window.location.pathname === '/'
+										? 'nav-link active'
+										: 'nav-link'
+								}
+							>
+								{link.text}
+							</Link>
+						</NavListItem>
+					))}
+				</NavListGroup>
 			</div>
 		</nav>
 	);
