@@ -6,6 +6,7 @@ import Wrapper from './components/Wrapper';
 import About from './pages/About';
 import Home from './pages/Home';
 import Portfolio from './pages/Portfolio';
+import Experience from './pages/Experience';
 
 const App = () => {
     return (
@@ -22,6 +23,9 @@ const App = () => {
                         </Route>
                         <Route exact path="/aboutme">
                             <About />
+                        </Route>
+                        <Route exact path="/experience">
+                            <Experience />
                         </Route>
                         <Route>
                             <Home />

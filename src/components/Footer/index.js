@@ -5,7 +5,7 @@ const Footer = () => {
 	return (
         <nav className="navbar fixed-bottom navbar-light bg-light" id="footer">
             <span className="navbar-brand mx-left">
-                <small>contact me at: eunahkim92@gmail.com</small>
+                <small>contact me at: kim.eunahj@gmail.com</small>
             </span>
             <span className="navbar-brand mx-right">
                 <a 

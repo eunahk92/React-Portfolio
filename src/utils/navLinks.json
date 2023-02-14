@@ -1,0 +1,6 @@
+[
+	{ "path": "/", "text":"HOME" },
+	{ "path": "/aboutme", "text":"ABOUT ME" },
+	{ "path": "/portfolio", "text":"PORTFOLIO" },
+	{ "path": "/experience", "text":"EXPERIENCE" }
+]

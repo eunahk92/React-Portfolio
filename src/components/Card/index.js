@@ -1,19 +1,18 @@
 import React from 'react';
 import './style.css';
 import brew_for_you from '../../assets/brew_for_you.png';
-import color_game from '../../assets/color_game.png';
 import daily_planner from '../../assets/daily_planner.png';
 import eat_a_burger from '../../assets/eat_a_burger.png';
 import employee_sys from '../../assets/employee_sys.png';
 import mother_trucker from '../../assets/mother_trucker.png';
 import notes from '../../assets/notes.png';
 import employee_directory from '../../assets/employee_directory.png';
-import team_generator from '../../assets/team_generator.png';
 import travelers_compass from '../../assets/travelers_compass.png';
+import travel_with_me from '../../assets/travel_with_me.png';
 
 const Card = ({ id, title, description, repoLink, deployedLink, lastUpdated, picturePath }) => {
     let projectID = `0${id}`;
-    let projects = [brew_for_you, color_game, daily_planner, eat_a_burger, employee_sys, mother_trucker, notes, employee_directory, team_generator, travelers_compass];
+    let projects = [brew_for_you, daily_planner, eat_a_burger, employee_sys, mother_trucker, notes, employee_directory, travelers_compass, travel_with_me];
     let chosenProjectPic = projects.filter(project => project.includes(picturePath));
 
     return (

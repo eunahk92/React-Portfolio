@@ -16,9 +16,9 @@ const About = () => {
             </Col>
             <Col size="md-8">   
                <h2 className="mb-1 text-info">who am i?</h2>
-               <p>Ambitious Full Stack Web Developer with over 8 years of experience in a leadership role in the Food & Beverage industry. Recent recipient of a certificate from the University of Central Florida Full Stack Web Development Bootcamp that allowed me to acquire and hone my skills. Professional strengths include multitasking, communication and time management with solid ability to learn quickly and stay calm under high pressure and fast-paced environments, collaborate with a team or work independently, and a strong focus on attention to detail. Passionate to make an impact in creating intuitive applications and continue my growth in this ever-growing field. </p>
+               <p>Ambitious Full Stack Developer with strengths in backend development, utilizing technical skills developed from UCF's Coding Bootcamp, such as, but not limited to, Javascript, Node, Typescript, SQL, Mongo, and React. Professional strengths include problem solving, communication and time management with solid ability to learn quickly and stay calm under high pressure and fast-paced environments, collaborate with a team or work independently, and a strong focus on attention to detail. Passionate to make an impact in creating intuitive applications and continue my growth in this ever-growing field and in my professional skills.</p>
                <h2 className="mb-1 text-info">skills</h2>
-               <p>HTML5 | CSS3 | JAVASCRIPT | jQUERY | NODE.JS | MONGO-DB | MYSQL | REACT | EXPRESS | EXPRESS-HANDLEBARS | JSON </p>    
+               <p>JAVASCRIPT | TYPESCRIPT | NODE.JS | MONGO-DB | MYSQL | POSTGRESSQL | REACT | JSON </p>      
                <h2 className="mb-1 text-info">education</h2> 
                <h4 className="mb-0">UNIVERSITY OF CENTRAL FLORIDA</h4>
                <span className="text-white ml-3">MARCH - SEPTEMBER 2020</span><br/>
