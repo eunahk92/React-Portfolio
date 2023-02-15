@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/React-Portfolio/static/css/main.8a10af59.chunk.css",
+    "main.js": "/React-Portfolio/static/js/main.5c4e4b2c.chunk.js",
+    "main.js.map": "/React-Portfolio/static/js/main.5c4e4b2c.chunk.js.map",
+    "runtime-main.js": "/React-Portfolio/static/js/runtime-main.a9de4ddc.js",
+    "runtime-main.js.map": "/React-Portfolio/static/js/runtime-main.a9de4ddc.js.map",
+    "static/js/2.8fac782d.chunk.js": "/React-Portfolio/static/js/2.8fac782d.chunk.js",
+    "static/js/2.8fac782d.chunk.js.map": "/React-Portfolio/static/js/2.8fac782d.chunk.js.map",
+    "index.html": "/React-Portfolio/index.html",
+    "precache-manifest.d6a0464520a96c2089d54e23c8970ef8.js": "/React-Portfolio/precache-manifest.d6a0464520a96c2089d54e23c8970ef8.js",
+    "service-worker.js": "/React-Portfolio/service-worker.js",
+    "static/css/main.8a10af59.chunk.css.map": "/React-Portfolio/static/css/main.8a10af59.chunk.css.map",
+    "static/js/2.8fac782d.chunk.js.LICENSE.txt": "/React-Portfolio/static/js/2.8fac782d.chunk.js.LICENSE.txt",
+    "static/media/Resume.pdf": "/React-Portfolio/static/media/Resume.752283b7.pdf",
+    "static/media/brew_for_you.png": "/React-Portfolio/static/media/brew_for_you.e63eba2e.png",
+    "static/media/daily_planner.png": "/React-Portfolio/static/media/daily_planner.2cb84b47.png",
+    "static/media/eat_a_burger.png": "/React-Portfolio/static/media/eat_a_burger.2354aa89.png",
+    "static/media/employee_directory.png": "/React-Portfolio/static/media/employee_directory.c7a43a30.png",
+    "static/media/employee_sys.png": "/React-Portfolio/static/media/employee_sys.f4bece02.png",
+    "static/media/mother_trucker.png": "/React-Portfolio/static/media/mother_trucker.df00ac33.png",
+    "static/media/notes.png": "/React-Portfolio/static/media/notes.df2a769e.png",
+    "static/media/profile_picture.png": "/React-Portfolio/static/media/profile_picture.6c7d1093.png",
+    "static/media/travel_with_me.png": "/React-Portfolio/static/media/travel_with_me.6f84778d.png",
+    "static/media/travelers_compass.png": "/React-Portfolio/static/media/travelers_compass.7595562c.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a9de4ddc.js",
+    "static/js/2.8fac782d.chunk.js",
+    "static/css/main.8a10af59.chunk.css",
+    "static/js/main.5c4e4b2c.chunk.js"
+  ]
+}
